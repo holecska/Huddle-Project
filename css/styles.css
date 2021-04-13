@@ -171,6 +171,7 @@ Grayish Blue: rgb(128, 141, 153) */
 .social-icon{
   margin-right: 20px;
   font-size: 2rem;
+  cursor: pointer;
 }
 
 .copyright{
@@ -182,6 +183,9 @@ Grayish Blue: rgb(128, 141, 153) */
 .icon{
   width: 20px;
   margin-right: 10px;
+}
+.pages {
+  cursor: pointer;
 }
 .text{
   position: relative;
@@ -199,6 +203,9 @@ Grayish Blue: rgb(128, 141, 153) */
   }
   .free-button{
     margin: 0 auto;
+  }
+  .try-button{
+    opacity: 0;
   }
   h1{
     font-size: 2rem;
